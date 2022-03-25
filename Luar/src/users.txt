@@ -1,0 +1,17 @@
+1,Murad04,Murad2004,Murad,Aslanov,0.0,CEO
+2,Raul04,Raul2004,Raul,Hasanov,0.0,Finance Manager
+3,Esra03,Esra2003,Esra,Mammadli,0.0,Sales Manager
+4,MsElnara,ElnaraNabiyeva,Elnara,Nabiyeva,0.0,Store Manager
+5,Scarface,Tony1983,Tony,Montana,0.0,Cashier
+6,Murad05,Murad2005,Aslan,Muradov,0.0,Cashier
+7,murad04,murad2004,murad,aslanov,0.0,Sales Manager
+8,Rufat,123456789,Rufat,Aslanov,0.0,Finance Manager
+9,Murad07,12345678,Murad,Aslanov,0.0,Cashier
+10,murad04,12345678,murad,aslanov,0.0,Finance Manager
+11,murad04,12345678,Murad,Aslanov,0.0,CEO
+12,murad04,123456789,Murad,Aslanov,0.0,Cashier
+13,murad06,12345678,Murad,Aslanov,0.0,Cashier
+14,murad09,12345678,Murad,Aslanov,0.0,Cashier
+15,Raul04,12345678,Raul,Hasanov,0.0,Cashier
+16,Esra07,12345678,Esra,Mammadli,0.0,Cashier
+17,Esra09,12345678,Esra,Mammadli,0.0,Cashier

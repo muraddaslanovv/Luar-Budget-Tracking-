@@ -1,0 +1,13 @@
+
+1,Tax,2021-07-08,345,true
+1,Rent,2021-03-05,500,true
+
+1,Utilities,2021-06-07,300,true
+
+1,Supplies,2021-05-09,600,true
+
+1,Supplies,2021-06-07,400,true
+
+1,Taxes,2021-05-08,700,true
+
+1,Rent of May,2021-05-31,600,true
